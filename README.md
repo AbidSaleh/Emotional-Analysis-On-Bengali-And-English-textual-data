@@ -7,6 +7,6 @@ Summary:
 
 <object data="https://github.com/AbidSaleh/Emotional-Analysis-On-Bengali-And-English-textual-data/blob/master/Emotional%20Analysis%20Thesis%20Defence%20Slide.pptx.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/AbidSaleh/Emotional-Analysis-On-Bengali-And-English-textual-data/blob/master/Emotional%20Analysis%20Thesis%20Defence%20Slide.pptx.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/AbidSaleh/Emotional-Analysis-On-Bengali-And-English-textual-data/blob/master/Emotional%20Analysis%20Thesis%20Defence%20Slide.pptx.pdf">Download PDF</a>.</p>
+        <p>Final Report : <a href="https://github.com/AbidSaleh/Emotional-Analysis-On-Bengali-And-English-textual-data/blob/master/Emotional%20Analysis%20Thesis%20Defence%20Slide.pptx.pdf">View In GitHub</a>.</p>
     </embed>
 </object>
